@@ -18,6 +18,7 @@ body{
 .banner{
     height: 80vh;
     background: linear-gradient(100deg,rgba(0, 0, 0,0.5),rgba(0, 0, 0,0.5)),center / cover no-repeat url("/Images/banner.jpg");
+    background-attachment: fixed;
 }
 
 .navbar{
